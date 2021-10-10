@@ -1,0 +1,25 @@
+{
+  "name": "termux-warmup",
+  "version": "1.0.0",
+  "description": "Using termux to warmup your phone to desired temperature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beast462/termux-warmup.git"
+  },
+  "author": "Hai Binh N.",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/beast462/termux-warmup/issues"
+  },
+  "homepage": "https://github.com/beast462/termux-warmup#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
